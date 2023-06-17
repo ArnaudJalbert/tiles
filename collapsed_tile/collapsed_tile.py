@@ -4,7 +4,7 @@ from abc import abstractmethod
 
 # image settings
 IMAGE_COLOR_SPACE = "RGB"
-IMAGE_RESOLUTION = (1000, 1000)
+IMAGE_RESOLUTION = (2000, 2000)
 IMAGE_BG_COLOR = (255, 255, 255)
 
 # border offset
